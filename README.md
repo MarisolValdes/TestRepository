@@ -1,5 +1,5 @@
 # TestRepository
-A repository to test thins
+A repository to test
 
 
 Make and commit changes
